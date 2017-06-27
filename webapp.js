@@ -18,6 +18,54 @@ var lesson=
     content:`
           <iframe src="https://www.youtube.com/embed/PMivT7MJ41M" frameborder="0" allowfullscreen></iframe>
                   `
+    },
+    'lesson-three' : {
+    title:'Lesson One|WebApp',
+    heading:'Lesson One',
+    content:`<iframe src="https://youtu.be/zVBY871JNi0" frameborder="0" allowfullscreen></iframe>
+                  `
+    },
+    'lesson-four' : {
+    title:'Lesson One|WebApp',
+    heading:'Lesson One',
+    content:`<iframe src="https://youtu.be/zVBY871JNi0" frameborder="0" allowfullscreen></iframe>
+                  `
+    },
+    'lesson-five' : {
+    title:'Lesson One|WebApp',
+    heading:'Lesson One',
+    content:`<iframe src="https://youtu.be/zVBY871JNi0" frameborder="0" allowfullscreen></iframe>
+                  `
+    },
+    'lesson-six' : {
+    title:'Lesson One|WebApp',
+    heading:'Lesson One',
+    content:`<iframe src="https://youtu.be/zVBY871JNi0" frameborder="0" allowfullscreen></iframe>
+                  `
+    },
+    'lesson-seven' : {
+    title:'Lesson One|WebApp',
+    heading:'Lesson One',
+    content:`<iframe src="https://youtu.be/zVBY871JNi0" frameborder="0" allowfullscreen></iframe>
+                  `
+    },
+    'lesson-eight' : {
+    title:'Lesson One|WebApp',
+    heading:'Lesson One',
+    content:`<iframe src="https://youtu.be/zVBY871JNi0" frameborder="0" allowfullscreen></iframe>
+                  `
+    },
+    'lesson-nine' : {
+    title:'Lesson One|WebApp',
+    heading:'Lesson One',
+    content:`<iframe src="https://youtu.be/zVBY871JNi0" frameborder="0" allowfullscreen></iframe>
+                  `
+    },
+    'lesson-ten' : {
+    title:'Lesson One|WebApp',
+    heading:'Lesson One',
+    content:`<iframe src="https://youtu.be/zVBY871JNi0" frameborder="0" allowfullscreen></iframe>
+                  `
     }
     };
 
@@ -118,14 +166,14 @@ function createTemplate(data){
           <ul class="nav navbar-nav navbar-right">
             <li><a href="/lesson-one">Lesson 1</a></li>
             <li><a href="/lesson-two">Lesson 2</a></li>
-            <li><a href="#">Lesson 3</a></li>
-            <li><a href="#">Lesson 4</a></li>
-            <li><a href="#">Lesson 5</a></li>
-            <li><a href="#">Lesson 1</a></li>
-            <li><a href="#">Lesson 2</a></li>
-            <li><a href="#">Lesson 3</a></li>
-            <li><a href="#">Lesson 4</a></li>
-            <li><a href="#">Lesson 5</a></li>
+            <li><a href="/lesson-three">Lesson 3</a></li>
+            <li><a href="/lesson-four">Lesson 4</a></li>
+            <li><a href="/lesson-five">Lesson 5</a></li>
+            <li><a href="/lesson-six">Lesson 1</a></li>
+            <li><a href="/lesson-seven">Lesson 2</a></li>
+            <li><a href="/lesson-eight">Lesson 3</a></li>
+            <li><a href="/lesson-nine">Lesson 4</a></li>
+            <li><a href="/lesson-ten">Lesson 5</a></li>
           </ul>
         </div>
       </div>
